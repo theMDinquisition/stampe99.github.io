@@ -139,3 +139,7 @@ span {
 .hero:hover .logo{
   left: 40px;
 }
+
+footer{
+  right: 20px;
+}

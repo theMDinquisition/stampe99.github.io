@@ -37,13 +37,10 @@ nav ul li a{
   font-weight: bold;
 }
 
-/*nav ul li a:hover{
+nav ul li a:hover{
   color: mediumaquamarine;
-}*/
-
-nav ul li a:hover {
-background-color: black;
 }
+
 
 .detel{
   margin-left: 8%;

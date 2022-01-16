@@ -6,7 +6,6 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Inter;
 
 ::selection {
   background: #b0b0b0; /*färgen när texten är markerad*/
-  color: yellow;
 }
 
 

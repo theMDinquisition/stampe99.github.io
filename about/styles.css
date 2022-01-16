@@ -5,6 +5,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 ::selection {
+  color: yellow;
   background: #b0b0b0; /*färgen när texten är markerad*/
 }
 
